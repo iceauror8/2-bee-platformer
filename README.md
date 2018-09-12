@@ -3,6 +3,7 @@ A 2-d platformer with bees
 Notes after this point taken from Liliana's google doc
 
 Expert Programmer:
+
 Expert Artist: Geen
 Expert Writer: Liliana
 
